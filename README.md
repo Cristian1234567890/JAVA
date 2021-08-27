@@ -1,4 +1,4 @@
 # JAVA
-All JAVA programs insert in branches.
+All JAVA programs are inserted into branches. 
 
 by Cristian Castillo.

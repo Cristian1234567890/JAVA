@@ -62,8 +62,7 @@ public class Main implements ActionListener {
 		presentacion.setEditable(false);
 		presentacion.setBackground(UIManager.getColor("CheckBox.background"));
 		
-		presentacion.setText("          Universidad Tecnologica de Panama\r\nFacultad de Ingenieria de sistemas computacionales\r\n\r\n\r\n        "
-				+ "Carrera Lic. En Desarrollo de Software\r\n        ");
+		presentacion.setText("  ");
 		
 		lb_este = new JLabel("Este");
 		lb_este.setBounds(740, 260, 90, 40);
